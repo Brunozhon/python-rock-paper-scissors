@@ -24,6 +24,8 @@ Finally, press the run button and see what happens.
 
 ## What if you want to/need to use a different GUI library?
 
-~If you want to use PySide, simply replace `PyQt` with `PySide`.~
+### `PySide`
 
-Unfortunately, my Python interpreter seems to have found the worst time to update so you'll just have to wait.
+If you want to use PySide, simply replace `PyQt` with `PySide`.
+
+You can also try migrating to PyQt, alough the same code has also been tested using PySide.
