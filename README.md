@@ -28,4 +28,10 @@ Finally, press the run button and see what happens.
 
 If you want to use PySide, simply replace `PyQt` with `PySide`.
 
+You also have to use a different `pip` command, which will be shown below in case it wasn't obvious.
+
+```
+pip install pyside6
+```
+
 You can also try migrating to PyQt, alough the same code has also been tested using PySide.
