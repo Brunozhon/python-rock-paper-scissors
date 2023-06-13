@@ -35,3 +35,7 @@ pip install pyside6
 ```
 
 You can also try migrating to PyQt, alough the same code has also been tested using PySide.
+
+### `PySimpleGUI`
+
+Very simple to use, but unfortunately all the text is invisible. 
