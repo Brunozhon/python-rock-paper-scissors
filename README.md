@@ -78,3 +78,17 @@ Then, locate the place the interpreter was, click it, and then click "OK".
 Finally, copy and paste the code in `pysimplegi.py` and run the code!\*
 
 \*This part applies to all users, macOS and non-macOS.
+
+## What if you want a pre-built app?
+
+Unfourtunately, the Qt version had a `segementation error`, so there is only the PySimpleGUI version.
+
+You do not need to upgrade your Python or `pip`; this comes pre-installed with all the stuff you need.
+
+Choose a file to download! (Windows and Linux versions don't exist yet, since my installer says that you have to run ot with the same OS that you wish to use.)
+
+OS | File | Framework | Notes
+---|---|---|---
+macOS | [pysimplegui.zip](https://github.com/Brunozhon/python-rock-paper-scissors/blob/main/pysimplegui.zip) | PySimpleGUI | Run the `main` file. This version of PySimpleGUI uses Python 3.11 `tkinter` 8.6, not Python 3.9 and `tkinter` 8.5\*.
+
+\*The former is the fixed version; the latter is the buggy version.
